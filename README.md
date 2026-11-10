@@ -4,12 +4,12 @@
 
 I have deployed 2 professional portfolio websites on InfinityFree Hosting:
 
-### 1. DD Portfolio - Personal Portfolio
+### 1. DD Portfolio - Personal Bio-Data Portfolio
 🌐 **Live Link:** [https://ddsharma.nfy.fyi](https://ddsharma.nfy.fyi)
 - Personal Developer Portfolio
 - Projects, Skills, Contact
 
-### 2. TechInnovate - Startup Website
+### 2. TechInnovate - Responsive Nature Website
 🌐 **Live Link:** [https://devkumarsharma2006.nfy.fyi](https://devkumarsharma2006.nfy.fyi)
 - Modern Startup Landing Page
 - Responsive Design
