@@ -1,16 +1,16 @@
-### Hi there 👋 I'm DD Sharma
+# Hi, I'm DD Sharma 👋
+Full Stack Developer
 
-## 🚀 My Live Projects
+### 🚀 My Live Projects
 
-I have deployed 2 professional portfolio websites on InfinityFree Hosting:
+**1. Biodata Portfolio Website**
+*   🔴 Live (InfinityFree - Main): [https://ddsharma.nfy.fyi](https://ddsharma.nfy.fyi)
+*   🔴 Live (GitHub Pages - Backup): [https://ddsharmas.github.io/Ddsharmas/](https://ddsharmas.github.io/Ddsharmas/)
+*   💻 Code: [https://github.com/Ddsharmas/Ddsharmas](https://github.com/Ddsharmas/Ddsharmas)
 
-### 1. DD Portfolio - Personal Bio-Data Portfolio
-🌐 **Live Link:** [https://ddsharma.nfy.fyi](https://ddsharma.nfy.fyi)
-- Personal Developer Portfolio
-- Projects, Skills, Contact
-
-### 2. TechInnovate - Responsive Nature Website
-🌐 **Live Link:** [https://devkumarsharma2006.nfy.fyi](https://devkumarsharma2006.nfy.fyi)
+**2. Nature Website - PHP & MySQL (InfinityFree)**
+*   🔴 Live: [https://devkumarsharma2006.nfy.fyi](https://devkumarsharma2006.nfy.fyi)
+*   💻 Code: [https://github.com/Ddsharmas/Nature-website](https://github.com/Ddsharmas/Nature-website)
 - Modern Startup Landing Page
 - Responsive Design
 
