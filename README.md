@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋 I'm DD Sharma
 
-<!--
-**Ddsharmas/Ddsharmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Live Projects
 
-Here are some ideas to get you started:
+I have deployed 2 professional portfolio websites on InfinityFree Hosting:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. DD Portfolio - Personal Portfolio
+🌐 **Live Link:** [https://ddsharma.nfy.fyi](https://ddsharma.nfy.fyi)
+- Personal Developer Portfolio
+- Projects, Skills, Contact
+
+### 2. TechInnovate - Startup Website
+🌐 **Live Link:** [https://devkumarsharma2006.nfy.fyi](https://devkumarsharma2006.nfy.fyi)
+- Modern Startup Landing Page
+- Responsive Design
+
+### 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- Git & GitHub
+- InfinityFree Hosting
+
+### 📂 How to run locally
+1. Clone the repo
+2. Open index.html
