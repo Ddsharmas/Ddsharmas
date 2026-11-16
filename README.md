@@ -18,7 +18,3 @@ Full Stack Developer
 - HTML, CSS, JavaScript
 - Git & GitHub
 - InfinityFree Hosting
-
-### 📂 How to run locally
-1. Clone the repo
-2. Open index.html
